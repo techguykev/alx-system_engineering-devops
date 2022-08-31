@@ -2,3 +2,4 @@
 1-listit explain which command to use to display a list of contents in your current working directory
 2-bring_me_home tells you which command to use to change working directory to home directory
 3-listfiles tells you which command to use to diplay current dirrectory contents in a long format
+4-listmorefiles displays current directory contents, including hidden files, using the long format
