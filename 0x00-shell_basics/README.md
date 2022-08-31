@@ -3,3 +3,5 @@
 2-bring_me_home tells you which command to use to change working directory to home directory
 3-listfiles tells you which command to use to diplay current dirrectory contents in a long format
 4-listmorefiles displays current directory contents, including hidden files, using the long format
+5-listfilesdigitonly shows the command to use to display current directory contents in long format, with hidden files, user and group IDs in numerical format
+6-firstdirectory shows you how to create one directory inside another directory, but in one line
