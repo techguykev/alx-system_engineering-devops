@@ -12,3 +12,4 @@
 11-lists tells you the command to use to lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 12-file_type show you how to print the type of the file named iamafile. The file iamafile will be in the /tmp directory
 13-symbolic_link show you how to create a symbolic link to /bin/ls, named __ls__ with the symbolic link created in the first directory
+14-copy_html shows you how to create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copies files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
