@@ -5,3 +5,4 @@
 4-listmorefiles displays current directory contents, including hidden files, using the long format
 5-listfilesdigitonly shows the command to use to display current directory contents in long format, with hidden files, user and group IDs in numerical format
 6-firstdirectory shows you how to create one directory inside another directory, but in one line
+7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory
